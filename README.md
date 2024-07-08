@@ -4,11 +4,11 @@ This project is a pixel-perfect replica of the Telegram messaging application, c
 
 ### Built with
 
-React
-Redux
-Tailwind CSS
-Node js
-Express js
-Mongo DB
-Cloudinary
-Socket.io
+##React
+##Redux
+##Tailwind CSS
+##Node js
+##Express js
+##Mongo DB
+##Cloudinary
+##Socket.io
