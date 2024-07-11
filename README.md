@@ -1,32 +1,32 @@
-### Telegram Replica!!!
+# Telegram Replica!!!
 
 This project is a pixel-perfect replica of the Telegram messaging application, created using ReactJS. The application fetches and displays chat and message data from provided APIs and is designed to be responsive for both desktop and mobile views.
 
-## Features
+# Features
 
-  # Light or Dark Theme
-  # Chat Pinning
-  # New Private Chat
-  ## Delete Chat
-  ## User settings
-  ## Contact List
-  ## Contact Search
-  ## Add Contact and Delete contact
-  ## Contact Online Status & Profile
-  ## Call Records
+  ### Light or Dark Theme
+  ### Chat Pinning
+  ### New Private Chat
+  ### Delete Chat
+  ### User settings
+  ### Contact List
+  ### Contact Search
+  ### Add Contact and Delete contact
+  ### Contact Online Status & Profile
+  ### Call Records
   
-### Built with
+# Built with
 
-## React  
-## Redux
-## Tailwind CSS
-## Nodejs  
-## Express js
-## Mongo DB 
-## Cloudinary
-## Socket.io
+### React  
+### Redux
+### Tailwind CSS
+### Nodejs  
+### Express js
+### Mongo DB 
+### Cloudinary
+### Socket.io
 
-### Running the app.
+# Running the app.
 
 In the project directory, you can run:
 
