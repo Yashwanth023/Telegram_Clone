@@ -2,11 +2,11 @@
 
 This project is a pixel-perfect replica of the Telegram messaging application, created using ReactJS. The application fetches and displays chat and message data from provided APIs and is designed to be responsive for both desktop and mobile views.
 
-### Features
+## Features
 
-  ## Light or Dark Theme
-  ## Chat Pinning
-  ## New Private Chat
+  # Light or Dark Theme
+  # Chat Pinning
+  # New Private Chat
   ## Delete Chat
   ## User settings
   ## Contact List
