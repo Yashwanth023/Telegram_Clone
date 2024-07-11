@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AdekolaThanni/Telegram-Clone.git"
+    "url": "git+https://github.com/Yashwanth023/Telegram_Clone"
   },
-  "author": "Adekola Thanni",
+  "author": "Yashwanth",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AdekolaThanni/Telegram-Clone/issues"
+    "url": "https://github.com/Yashwanth023/Telegram_Clone"
   },
-  "homepage": "https://github.com/AdekolaThanni/Telegram-Clone#readme",
+  "homepage": "https://github.com/Yashwanth023/Telegram_Clone",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "cloudinary": "^1.33.0",
